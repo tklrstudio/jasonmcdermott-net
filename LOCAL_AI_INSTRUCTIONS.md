@@ -17,7 +17,7 @@ Personal landing page for Jason McDermott at jasonmcdermott.net. A single-page s
 
 **Workspace code:** `JM`
 **Decision prefix:** `DEC-JM`
-**Branch strategy:** main-only
+branch-strategy: main-only
 
 ---
 
